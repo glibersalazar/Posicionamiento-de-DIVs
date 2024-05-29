@@ -1,0 +1,89 @@
+.container{
+    width: 550px;
+    height: 550px;
+    background-color: rgb(124, 132, 134);
+    margin: auto;
+    position: relative;
+}
+
+.uno{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(247, 0, 255);
+    left: 50px;
+    top: 20px;
+    position: absolute;
+}
+.dos{
+    width: 50px;
+    height: 50px;
+    background-color: #16ccb4;
+    left: 100px;
+    top: 70px;
+    position: absolute
+}
+.tres{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(204, 58, 22);
+    left: 150px;
+    top: 120px;
+    position: absolute;
+}
+.cuatro{
+    width: 50px;
+    height: 50px;
+    background-color: #16ccb4;
+    left: 200px;
+    top: 70px;
+    position: absolute;
+}
+.cinco{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(204, 22, 204);
+    left: 250px;
+    top: 20px;
+    position: absolute;
+}
+.seis{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(47, 0, 255);
+    left: 50px;
+    top: 270px;
+    position: absolute;
+}
+.siete{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(30, 255, 0);
+    left: 100px;
+    top: 220px;
+    position: absolute;
+}
+.ocho{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 255, 0);
+    left:200px;
+    top: 220px;
+    position: absolute;
+}
+.nueve{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 60, 255);
+    left: 250px;
+    top: 270px;
+    position: absolute;
+}
+.diez{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(238, 255, 0);
+    left: 150px;
+    top: 170px;
+    position: absolute;
+
+}
